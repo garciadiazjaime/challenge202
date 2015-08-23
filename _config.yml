@@ -1,0 +1,12 @@
+# Site settings
+title: Challenge 202
+email: garciadiazjaime@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  La lógica te llevará del punto A al punto B. La imaginación te llevará a cualquier lado.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.challenge202.com/" # the base hostname & protocol for your site
+twitter_username: garciadiazjaime
+github_username:  garciadiazjaime
+
+# Build settings
+markdown: kramdown
