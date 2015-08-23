@@ -1,6 +1,6 @@
-Challange 202
+Challenge 202
 ==============
-Personal Blog
+Web Development Blog
 
 
 Installation Steps
