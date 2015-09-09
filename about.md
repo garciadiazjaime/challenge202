@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Hola
-permalink: /hola/
+title: Hi
+permalink: /hi/
 ---
 
-Hola, mi nombre es Jaime y soy Desarrollador Web. Soy fan de la Web. Siempre intento mejorar cada pedazo de código que me encuentro, desde Back End hasta Front End.
-Me gusta trabajar con diferentes tecnologías y con diferente entornos. Actualmente estoy fascinado con React, Javascript, Nodejs, Python y Django.
+Hi, my name is Jaime and I'm a Web Developer, I love the Web, I'm always trying to improve every possible aspect of the code in front of me, from Back End to Front End. I enjoy working with different technologies as well as different environments. Currently fascinated with React, Javascript, Nodejs, Python and Django.
